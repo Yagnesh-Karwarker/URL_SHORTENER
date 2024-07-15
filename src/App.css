@@ -1,0 +1,40 @@
+.App {
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  header, footer {
+    background-color: #282c34;
+    color: white;
+    padding: 20px;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  .url-shortener form {
+    margin-bottom: 20px;
+  }
+  
+  .url-shortener input {
+    padding: 10px;
+    width: 300px;
+    margin-right: 10px;
+  }
+  
+  .url-shortener button {
+    padding: 10px 20px;
+    background-color: #61dafb;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .url-list ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .url-list li {
+    margin-bottom: 10px;
+  }
